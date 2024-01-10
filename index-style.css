@@ -100,7 +100,9 @@ article {
       display: none;
     }
   }
-  
+  /* .article-wrapper{
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+  } */
   @container card (min-width: 380px) {
     .article-wrapper {
       display: grid;
@@ -132,7 +134,8 @@ article {
     width: 1px;
   }
 body{
-    background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+  
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
 }
 a{
     text-decoration: none !important;
