@@ -300,7 +300,7 @@ tbody {
 				position: absolute;
 				left: 0;
 				right: 0;
-				top: -9999px;
+			top: -9999px;
 				bottom: -9999px;
 				background-color: rgba(255,255,255,0.2);
 				z-index: -1;
